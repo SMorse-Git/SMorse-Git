@@ -1,4 +1,4 @@
-Hello 👋
+## Hello 👋
 
 My name is Samuel Morse, a current Honors Students pursuing a Bachlor's of Science in Data Science at the University of Massachusetts Lowell. Along with my major, I 
 am also activly persuing minors in both mathematics and business administration. With specific personal research within the evolving fields of Machine Learning 
